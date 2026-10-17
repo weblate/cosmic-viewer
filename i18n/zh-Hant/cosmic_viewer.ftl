@@ -56,3 +56,4 @@ menu-actual-size = 實際大小
 text-tool = 文字
 crop-custom = 自訂
 crop-original = 原始
+menu-copy-file-path = 複製檔案路徑
